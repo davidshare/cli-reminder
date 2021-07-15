@@ -1,2 +1,2 @@
 # cli-reminder
-A simple cli reminder written in go
+A cli tool for querying dns records written in go
